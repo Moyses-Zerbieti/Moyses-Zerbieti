@@ -9,7 +9,7 @@
   ## Tecnologias
 
 ### Backend
-   - <img align="center" alt= "JAVA" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img align = "center" alt = "SPRINGBOOT" src= "https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img align = "center" alt = "SPRINGCLOUD" src="https://img.shields.io/badge/SpringCloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img align="center" alt= "API REST" src= "https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=postman&logoColor=orange" />  <img align="center" alt= "MICROSSERVIÇOS" src= "https://img.shields.io/badge/Microsservice-FF6F00?style=for-the-badge&logo=moleculer&logoColor=white" />
+   - <img align="center" alt= "JAVA" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img align = "center" alt = "SPRINGBOOT" src= "https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img align="center" alt= "API REST" src= "https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=postman&logoColor=orange" /> <img align = "center" alt = "SPRINGCLOUD" src="https://img.shields.io/badge/SpringCloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img align="center" alt= "MICROSSERVIÇOS" src= "https://img.shields.io/badge/Microsservice-FF6F00?style=for-the-badge&logo=moleculer&logoColor=white" />
 
 ### Banco de dados
   - <img align="center" alt= "POSTGRESQL" src= "https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
