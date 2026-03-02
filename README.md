@@ -1,7 +1,7 @@
 
 ### Ola! Me chamo Moyses Zerbieti, estudo Análise e Desenvolvimento de Sistemas pela UNINTER e este é o meu repositório de códigos que faço para aprendizado e estudos 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_zerbietii/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moyses-zerbieti/)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moyses-zerbieti/)
 
 ![Moyses Zerbieti GitHub stats](https://github-readme-stats.vercel.app/api?username=Moyses-Zerbieti&show_icons=true&theme=radical)
 
